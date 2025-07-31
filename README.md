@@ -22,19 +22,9 @@ This project demonstrates a **multi-agent chatbot** system built with **Streamli
 
 ---
 
-## 🗂️ Folder Structure
-.
-├── app.py # Main Streamlit app
-├── lottiefiles/ # Lottie animation files
-├── .env # API keys and config
-├── requirements.txt # All dependencies
-└── README.md
-
----
-
 ## ⚙️ Getting Started
 
-1. **Clone the repository**
+**Clone the repository**
 
 ```bash
 git clone https://github.com/sabihanjum/multi-agentic-chatbot

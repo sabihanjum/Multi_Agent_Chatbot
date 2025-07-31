@@ -1,0 +1,6 @@
+streamlit
+openai
+awscli
+boto3
+Pillow
+streamlit-lottie
